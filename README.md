@@ -34,3 +34,23 @@ npm install axios --save
 ```
 npm install element-ui --save
 ```
+
+### 安装vue-table-with-tree-grid
+```
+npm i vue-table-with-tree-grid -S
+```
+
+### 安装vue-quill-editor
+```
+npm i vue-quill-editor -S
+```
+
+### 安装echarts
+```
+npm install echarts --save
+```
+
+### 安装babel-plugin-transform-remove-console
+```
+npm install babel-plugin-transform-remove-console --save-dev
+```
